@@ -1,0 +1,5 @@
+2024-09-03 13:24:12,366 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2024-09-03 13:24:12,368 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'post_process']
+2024-09-03 13:24:12,371 DEBUG    root            Running [gcloud.components.post-process] with arguments: []
+2024-09-03 13:24:22,209 DEBUG    root            Chosen display Format:none
+2024-09-03 13:24:22,210 INFO     root            Display format: "none"
